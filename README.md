@@ -8,6 +8,8 @@
     4) Download gorilla/mux package => go get -u github.com/gorilla/mux
     5) Clon project to go project location => go get github.com/sampathsl/SimpleGoRestApi
     6) Import the project any favourite IDE
+    7) Go to the main file and right click and run in terminal "go run main.go"
+    8) Load http://localhost:12345/people
     
     
 
